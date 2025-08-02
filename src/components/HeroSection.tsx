@@ -29,7 +29,7 @@ const HeroSection = () => {
         {/* Main heading */}
         <div className="animate-slide-up">
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-hero bg-clip-text text-transparent">
-            BEATZO
+            DELTA MUSIC
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
             The ultimate Discord music bot that brings your server to life with high-quality music, 
@@ -61,7 +61,7 @@ const HeroSection = () => {
             className="text-lg px-8 py-4 h-auto animate-pulse-glow"
           >
             <Users className="mr-2" />
-            Invite Beatzo
+            Invite Delta Music
           </Button>
           <Button 
             variant="outline" 

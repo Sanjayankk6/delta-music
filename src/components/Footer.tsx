@@ -15,7 +15,7 @@ const Footer = () => {
                 <Music className="w-6 h-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-                Beatzo
+                Delta Music
               </span>
             </div>
             <p className="text-muted-foreground mb-6 leading-relaxed">
@@ -121,14 +121,14 @@ const Footer = () => {
         <div className="border-t border-border pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2 text-muted-foreground">
-              <span>© {currentYear} Beatzo. Made with</span>
+              <span>© {currentYear} Delta Music. Made by S 4 N J U & DELTA with</span>
               <Heart className="w-4 h-4 text-red-500 fill-current" />
               <span>for Discord communities.</span>
             </div>
             
             <div className="flex items-center gap-4">
               <Button variant="hero" size="sm" className="animate-pulse-glow">
-                Invite Beatzo
+                Invite Delta Music
               </Button>
               <Button variant="outline" size="sm">
                 Join Discord
